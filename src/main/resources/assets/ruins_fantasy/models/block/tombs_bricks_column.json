@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "the_reigned:block/tombs_bricks_column_top",
+    "side": "the_reigned:block/tombs_bricks_column_side"
+  }
+}

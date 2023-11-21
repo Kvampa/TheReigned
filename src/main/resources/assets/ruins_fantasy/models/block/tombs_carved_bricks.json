@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "the_reigned:block/tombs_carved_bricks"
+  }
+}

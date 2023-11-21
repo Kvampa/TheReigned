@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "the_reigned:block/tombs_bricks",
+    "side": "the_reigned:block/tombs_bricks",
+    "top": "the_reigned:block/tombs_bricks"
+  }
+}
